@@ -1,0 +1,1 @@
+Special thanks go to the people on the #Wesnoth freenod IRC (webchat.freenode.net) for there assisstance as I bugged them with the problems in my code. Thanks!
